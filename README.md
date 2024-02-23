@@ -1,15 +1,18 @@
 # Motor-Speed-Control-System
 
 
-### 개발 환경 및 구성
-
-![image](https://github.com/yeoseojeong/Motor-Speed-Control-System/assets/121150215/bc957b49-506e-4815-911d-05ea03ed8c72)
-
----
 
 ### 팀구성
 
 ![image](https://github.com/yeoseojeong/Motor-Speed-Control-System/assets/121150215/98501698-3316-4772-94cd-d27aaa9d48d6)
+
+---
+
+### 개발 환경 및 구성
+
+![image](https://github.com/yeoseojeong/Motor-Speed-Control-System/assets/121150215/bc957b49-506e-4815-911d-05ea03ed8c72)
+
+
 
 ---
 
