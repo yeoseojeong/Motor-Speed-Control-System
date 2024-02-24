@@ -1,6 +1,6 @@
 # Motor-Speed-Control-System
 
-
+Low Pass Filter를 거치고 PI제어기로 모터 속도를 제어하는 시스템입니다.
 
 ### 팀구성
 
