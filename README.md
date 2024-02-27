@@ -35,9 +35,11 @@ Low Pass Filter를 거치고 PI제어기로 모터 속도를 제어하는 시스
 
 ### 요구사항 명세서
 
+![image](https://github.com/yeoseojeong/Motor-Speed-Control-System/assets/121150215/b9914bf7-49f7-4348-be9d-8ccd7a0276a2)
+
 ![image](https://github.com/yeoseojeong/Motor-Speed-Control-System/assets/121150215/866017ba-b0ae-4bb9-8c7e-99c2f33f5ad6)
 
-![image](https://github.com/yeoseojeong/Motor-Speed-Control-System/assets/121150215/b9914bf7-49f7-4348-be9d-8ccd7a0276a2)
+
 
 
 ---
@@ -118,9 +120,11 @@ Low Pass Filter를 거치고 PI제어기로 모터 속도를 제어하는 시스
 
 ### 시스템 & 통합 Test
 
+![image](https://github.com/yeoseojeong/Motor-Speed-Control-System/assets/121150215/3da96668-e8d3-4bc6-9357-c559f58e0b72)
+
 ![image](https://github.com/yeoseojeong/Motor-Speed-Control-System/assets/121150215/875078d5-7f7f-4bc6-854e-028036322714)
 
-![image](https://github.com/yeoseojeong/Motor-Speed-Control-System/assets/121150215/9dc7a5ce-2179-4033-9132-a4b9d7855f6d)
+
 
 ---
 ### 개발 일정 관리
@@ -132,4 +136,5 @@ Low Pass Filter를 거치고 PI제어기로 모터 속도를 제어하는 시스
 
 ### 자체 평가
 
-![image](https://github.com/yeoseojeong/Motor-Speed-Control-System/assets/121150215/3da96668-e8d3-4bc6-9357-c559f58e0b72)
+![image](https://github.com/yeoseojeong/Motor-Speed-Control-System/assets/121150215/9dc7a5ce-2179-4033-9132-a4b9d7855f6d)
+
