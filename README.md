@@ -1,12 +1,6 @@
 # Motor-Speed-Control-System
 
-Low Pass Filter를 거치고 PI제어기로 모터 속도를 제어하는 시스템입니다.
 
-### 팀구성
-
-![image](https://github.com/yeoseojeong/Motor-Speed-Control-System/assets/121150215/98501698-3316-4772-94cd-d27aaa9d48d6)
-
----
 
 ### 개발 환경 및 구성
 
